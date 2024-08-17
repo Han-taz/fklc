@@ -1,0 +1,1 @@
+Langchain을 전부 빼고 Chatbot 기능 구현
